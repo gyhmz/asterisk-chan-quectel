@@ -8,10 +8,10 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=asterisk-chan-quectel
-PKG_VERSION:=3.6
-PKG_RELEASE:=3.6
+PKG_VERSION:=3.6.0
+PKG_RELEASE:=3.6.0
 
-PKG_SOURCE:=master.zip
+PKG_SOURCE:=3.6.0.zip
 PKG_SOURCE_URL:=https://github.com/IchthysMaranatha/asterisk-chan-quectel/archive/refs/heads/
 PKG_CAT:=unzip
 PKG_HASH:=skip
